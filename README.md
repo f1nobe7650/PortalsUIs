@@ -1,2 +1,2 @@
 # Pandora UI
-![alt text]([[http://url/to/img.png](https://api-minecraft.net/668awudu.png)](hi))
+![alt text](https://api-minecraft.net/668awudu.png)
