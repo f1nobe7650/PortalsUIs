@@ -17,3 +17,6 @@ Welcome to the **great portal** leak feat. Finobe & Office
 
 # Dmt new ui 
 ![screenshot](https://media.discordapp.net/attachments/1012723349580955720/1226405249409875978/image.png?ex=668980a4&is=66882f24&hm=8a9f8ebc4e57f53be5782892bbf1ab826c77716c470e068107b500d083ce009e&=&format=webp&quality=lossless)
+
+# Splix remake
+![screenshot](https://media.discordapp.net/attachments/1258213501860708362/1258849779702566944/image.png?ex=66898ab7&is=66883937&hm=e496c89670cd47c519edb87d837e2f9410c3bb26a16ade1739b220f837bbd974&=&format=webp&quality=lossless)
