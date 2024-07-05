@@ -14,3 +14,6 @@ Welcome to the **great portal** leak feat. Finobe & Office
 
 # Dmt old ui
 ![screenshot](https://media.discordapp.net/attachments/1012723349580955720/1223035131514585128/image.png?ex=66891b7a&is=6687c9fa&hm=c21a528775ecb7f13bd8e678a3c27531b781934a1e7efb0d5312beb5731bdc51&=&format=webp&quality=lossless)
+
+# Dmt new ui 
+![screenshot](https://media.discordapp.net/attachments/1012723349580955720/1226405249409875978/image.png?ex=668980a4&is=66882f24&hm=8a9f8ebc4e57f53be5782892bbf1ab826c77716c470e068107b500d083ce009e&=&format=webp&quality=lossless)
