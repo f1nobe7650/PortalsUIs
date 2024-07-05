@@ -1,9 +1,9 @@
 # Welcome to the **great portal** leak feat. Finobe & Office
-# note: phantom hake, flow hook, velocity and deadcell are all in drawing and will not be backed up it is your responsibility i guess :^) 
- DO NOT BUY UIS FROM PORTAL THEY WILL EVENTUALLY GET LEAKED AND THEY ARRIVE IN POOR QUALITY
-# [finobes discord link](https://discord.gg/teBMYdqwAm)
-# [offices discord link](https://discord.gg/WXAjMtNNQ6)
-# [v3rm vermillion link](https://v3rm.net/threads/the-great-portal-leak-cw.9900/)
+# DO NOT BUY UIS FROM PORTAL THEY WILL EVENTUALLY GET LEAKED AND THEY ARRIVE IN POOR QUALITY!!
+ note: phantom hake, flow hook, velocity and deadcell are all in drawing and will not be backed up it is your responsibility i guess :^) 
+ [finobes discord link](https://discord.gg/teBMYdqwAm)
+ [offices discord link](https://discord.gg/WXAjMtNNQ6)
+ [v3rm vermillion link](https://v3rm.net/threads/the-great-portal-leak-cw.9900/)
 
 # Pandora UI
 ![screenshot](https://r2.e-z.host/35e5b321-49c3-4724-9cc0-ba482312dc74/668awudu.png)
