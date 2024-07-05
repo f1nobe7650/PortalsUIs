@@ -11,3 +11,6 @@ Welcome to the **great portal** leak feat. Finobe & Office
 
 # Phantom hake ui 
 ![screenshot](https://media.discordapp.net/attachments/1012723349580955720/1116218941791023105/image.png?ex=66896da6&is=66881c26&hm=eeb8f711631da8dd94eb9371182d58a393a666da4c3be4d6b32a5add5efd0cc3&=&format=webp&quality=lossless&width=638&height=676)
+
+# Dmt old ui
+![screenshot](https://media.discordapp.net/attachments/1012723349580955720/1223035131514585128/image.png?ex=66891b7a&is=6687c9fa&hm=c21a528775ecb7f13bd8e678a3c27531b781934a1e7efb0d5312beb5731bdc51&=&format=webp&quality=lossless)
