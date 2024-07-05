@@ -1,2 +1,2 @@
 # Pandora UI
-![](https://api-minecraft.net/668awudu.png)
+![screenshot](https://api-minecraft.net/668awudu.png)
